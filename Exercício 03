@@ -1,0 +1,13 @@
+#Exercício 07 do Curso em vídeo de python
+#Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média, como resolvi:
+
+Nt= float(input('Digite a nota do primeiro trimestre:'))
+Nt2= float(input('Digite a nota do segundo trimestre:'))
+Nt3= float(input('Digite a nota do terceiro trimestre:'))
+t1= Nt
+t2= Nt2
+t3= Nt3
+tri= 10
+média= (t1*tri)+(t2*tri)+(t3*tri)
+média2= (tri+tri+tri)
+print('A média ponderada é:{}'.format(média/média2))
