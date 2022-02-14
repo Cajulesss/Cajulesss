@@ -1,0 +1,12 @@
+#Exercício 05 do Curso em Vídeo 
+#Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor
+#Eu fiz um pouco diferente esse exercício e se fosse um Sucessor e Antecessor na Soma? Como isso ficaria?
+
+t1=int(input('Digite um número:'))
+t2=int(input('Digite um segundo número:'))
+antecessor= (t1+t2)-1
+sucessor= (t1+t2)+1
+s= t1+t2
+print('O valor da soma é igual a:{}'.format(s))
+print('O número antecessor da soma vale:{}'.format(antecessor))
+print('O número sucessor da soma vale:{}'.format(sucessor))
