@@ -1,0 +1,11 @@
+#Exercício n°06 do curso em vídeo
+#Crie um algoritmo que leia um número e mostre o seu dobro,triplo e raiz quadrada, como eu resolvi:
+
+#Perguntar para escolha de número
+x=int(input('Digite um número:'))
+dobro= x*2
+triplo= x*3
+raiz= x**2
+print('O seu dobro equivale:{}'.format(dobro))
+print('O seu triplo equivale:{}'.format(triplo))
+print('Sua raiz quadrada equivale:{}'.format(raiz))
