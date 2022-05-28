@@ -1,3 +1,12 @@
+
+<!--<html>
+<img src ="" alt="imagem banner">
+<html>-->
+
+
+
+
+
 - 👋 Oii, sou a Cajulesss! Prazer conhecê-lo (a)
 - 👀 Sou muito interessada em criação de jogos
 - 🌱 Estou aprendendo, python,java e 3D
