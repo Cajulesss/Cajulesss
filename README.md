@@ -27,6 +27,9 @@
       <li>Um bom readme</li>
       <li>Slides</li>
     </ul>
+    
+<h3>Dê uma olhada nos slides sobre Teorema de Pitágoras e Razões Trigonométricas:</h3>
+<img src="https://user-images.githubusercontent.com/99684656/170849265-db21e797-85bd-4c64-bf55-b9e1c64dd9fb.jpg" width="600" height="450" alt="Qr code (Slides)">
 
 </body>
 <html>
