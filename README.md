@@ -10,12 +10,13 @@
 
 <p>Oii, sou a Jullyene, mais conhecida informalmente como Cajulesss! Prazer conhecê-lo (a)🥰</p>
 <p>Estou participando mais com coisas que envolvam TI, cursos,lives...</p>
-<p> Estou me dedicando a melhorar mais e mais, e implementando a programção no meu dia dia</p>
+<p>Estou me dedicando a melhorar mais e mais, e implementando a programação no meu dia dia e</p>
+<p>sou interessadíssima em desenvolvimento de jogos, proponho trazer coisas bem criativas😊</p>
 
 <h2>O que farei/produzir?</h2>
 <p>Evoluir nos meus estudos de python, java e 3D,através de pequenos projetos, realizando atividades de cursos</p>
 <p>e adicionando em um diretório específico,montar pequenos projetos e conforme eu vou aprendendo,terá projetos</p>
-<p>mais elobarados e com um grau de dificuldade  maior, já que sou interessadíssima em desenvolvimento de jogos.😁</p>
+<p>mais elobarados e com um grau de dificuldade maior.😁</p>
 <p>Além de ser um espaço de ajuda para outras pessoas que gostam dessa área.😃</p>
 <ol>
     <li>Lista de Afazeres:</li>
